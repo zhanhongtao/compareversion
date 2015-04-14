@@ -1,0 +1,23 @@
+{
+  "name": "compareVersion",
+  "version": "1.0.0",
+  "description": "比较版本号",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/zhanhongtao/compareVersion"
+  },
+  "keywords": [
+    "compare",
+    "version"
+  ],
+  "author": "redky@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhanhongtao/compareVersion/issues"
+  },
+  "homepage": "https://github.com/zhanhongtao/compareVersion"
+}
