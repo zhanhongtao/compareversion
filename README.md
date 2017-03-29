@@ -2,7 +2,7 @@
 compare version!
 
 ## Install
-`$ npm install --save compareversion`
+`$ npm install --save-dev compareversion`
 
 ## Usage
 ```javascript
